@@ -7,7 +7,4 @@ We are a *community workshop, hackspace, makerspace* in Manchester. Open 24/7 to
 ![](https://docs.hacman.org.uk/images/space.jpg)
 
 ## Join up
-If you'd like to join Hackspace Manchester, register at [https://members.hacman.org.uk/register](https://members.hacman.org.uk/register) as either a full member or online only member.
-
-* Becoming a member means you support the space, keep the doors open and lights on, and get a say in how the space is run.
-* Becoming an online only member just means you get to log into online services - you're not a full member of the space.
+If you'd like to join Hackspace Manchester, you can find out more about joining us over on our [website](https://www.hacman.org.uk/visit-us/). You'll need to attend an open evening tour in person, where you'll be given all the information you need.
